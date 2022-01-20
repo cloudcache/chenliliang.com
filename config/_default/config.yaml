@@ -11,7 +11,7 @@ copyright: '© {year} 陈李粮' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-cn
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
