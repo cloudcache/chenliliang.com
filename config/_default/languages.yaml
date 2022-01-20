@@ -8,23 +8,6 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
   title: Chen's Blog
-  menu:
-     main:
-       - name: Blog
-         url: post
-         weight: 20
-       - name: Image
-         url: people
-         weight: 30
-       - name: GoGoGo
-         url: event
-         weight: 40
-       - name: Documents
-         url: publication
-         weight: 50
-       - name: Conatct
-          url: contact
-         weight: 60
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
