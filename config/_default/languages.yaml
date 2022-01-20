@@ -14,23 +14,6 @@ zh:
   languageCode: zh-cn
   contentDir: content/zh
   title: 陈李粮的碎碎念
-  menu:
-     main:
-       - name: 碎碎念
-         url: post
-         weight: 20
-       - name: 光和影
-         url: people
-         weight: 30
-       - name: 独行侠
-         url: event
-         weight: 40
-       - name: 文档库
-         url: publication
-         weight: 50
-       - name: 联系我
-          url: contact
-         weight: 60
 #  params:
 #    description: Site description in Chinese...
 #  menu:
